@@ -1,5 +1,5 @@
 # 👤 Who am I 
-Hello! My name is André Felipe Witt, I am 17 years old and I live in Jaraguá do Sul, I am currently studying High School integrated with the Technical Course in Systems Development at SENAI, I am also doing Industrial Apprenticeship as an Information Systems Programmer at WEG.
+Hello! My name is André Felipe Witt, I am 18 years old and I live in Jaraguá do Sul, I attended high school integrated with the Technical Course in Systems Development at SENAI, I am also doing Industrial Apprenticeship as an Information Systems Programmer at WEG.
 
 # 🌐 Social Media 
 <a href="https://instagram.com/andrewitt_"/><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" width=60px/>
